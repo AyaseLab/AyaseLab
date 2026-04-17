@@ -25,6 +25,7 @@
     <module>ayaselab-dto</module>
     <module>ayaselab-model</module>
     <module>ayaselab-test</module>
+    <module>ayaselab-cache</module>
   </modules>
 
   <properties>

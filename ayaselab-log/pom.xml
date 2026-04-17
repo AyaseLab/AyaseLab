@@ -9,5 +9,12 @@
     <artifactId>ayaselab-log</artifactId>
     <name>ayaselab-log</name>
     <description>AyaseLab-日志组件模块</description>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
 
 </project>
