@@ -5,7 +5,7 @@ target/
 .kotlin
 
 ### Maven repository ###
-.mvn/localrepository
+.mvn/localRepository/
 
 ### IntelliJ IDEA ###
 .idea/
