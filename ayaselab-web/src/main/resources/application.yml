@@ -1,0 +1,10 @@
+app.id: ayaselab
+env: dev
+
+apollo:
+  bootstrap:
+    enabled: true
+    namespaces: application, Root, HelpText, ServiceCollection
+  cluster: default
+  meta: http://localhost:8080
+  autoUpdateInjectedSpringProperties: true
