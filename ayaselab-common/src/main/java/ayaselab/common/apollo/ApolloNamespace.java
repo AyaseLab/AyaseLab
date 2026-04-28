@@ -4,7 +4,7 @@ public enum ApolloNamespace {
 
     Default("application"),
 
-    Root("root"),
+    Root("Root"),
 
     HelpText("HelpText"),
 
