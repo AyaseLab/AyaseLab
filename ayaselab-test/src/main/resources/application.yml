@@ -1,0 +1,15 @@
+app.id: ayaselab
+env: DEV
+
+apollo:
+  access-key:
+    secret: ed63fe59064b43fbb5fe883ead63aa8e
+  bootstrap:
+    enabled: true
+    namespaces: application,Root,HelpText,ServiceCollection
+  cluster: default
+  meta: http://192.168.147.129:8080
+  autoUpdateInjectedSpringProperties: true
+
+server:
+  port: 8099

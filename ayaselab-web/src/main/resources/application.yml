@@ -10,3 +10,6 @@ apollo:
   cluster: default
   meta: http://192.168.147.129:8080
   autoUpdateInjectedSpringProperties: true
+
+server:
+  port: 8099
