@@ -8,7 +8,7 @@ apollo:
     enabled: true
     namespaces: application,Root,HelpText,ServiceCollection
   cluster: default
-  meta: http://192.168.147.129:8080
+  meta: http://192.168.217.128:8080
   autoUpdateInjectedSpringProperties: true
 
 server:

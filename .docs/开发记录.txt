@@ -1,0 +1,24 @@
+http调用组件完善
+日志组件开发
+apollo配置组件开发
+xxljob相关开发
+elastic search
+
+一些可以学习的idea：
+1.RAG与大模型智能客服：
+业务框架：智能客服业务场景设计
+核心技术：RAG技术栈，文本向量化，搜索优化（BM25/稠密搜索）、重排序、（Ranking）、大模型生成答案
+常见问题：RAG的延迟优化、幻觉缓解、多轮对话记忆
+
+2.Dify智能开发与应用
+熟悉Dify平台核心功能：工作流编排、工具插件开发、RAG管道配置
+实践场景：合同解析：关键条款与风险提示
+
+3.智能金融分析机器人 Ai-Stock-Analysis-Robot 高优先级
+业务框架：QQ群聊机器人，定时推送行情/自选股/异动行情股票 信息，支持单轮对话询问股票信息
+核心技术：NapCatQQ、Spring-boot应用API主体、MySQL数据库、Redis缓存、XXL-JOB任务调度、Apollo配置中心、TuShare数据源、Docker部署、Qwen3-8b大模型、Dify低代码Agent
+支持自主本地客户端，支持QQ群访问云服务，注意规避监管风险
+
+4.Github开源项目股票智能分析系统
+github地址：https://github.com/ZhuLinsen/daily_stock_analysis
+
